@@ -21,7 +21,7 @@
 
 We declare that:
 
-- [ ] we have completed **the Web3 Foundation KYC/KYB process**.
+- [x] we have completed **the Web3 Foundation KYC/KYB process**.
 - [x] we used **a clear and permissive open-source license**.
 - [x] we submitted **a clear Git history and public, credibly timestamped commits**
 - [x] we used third party libraries for: **cryptographic primitives** (e.g. erasure-coding, Bandersnatch, Ed25519) | **codecs** (e.g. SCALE) | **networking** (e.g. QUIC).
